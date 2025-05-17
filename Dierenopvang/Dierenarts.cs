@@ -1,4 +1,6 @@
-﻿namespace Dierenopvang;
+// Composition
+
+namespace Dierenopvang;
 
 public class Dierenarts
 {
