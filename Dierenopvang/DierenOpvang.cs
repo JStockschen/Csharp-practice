@@ -1,4 +1,7 @@
-﻿namespace Dierenopvang;
+// Demonstrates List from an Interface linked to an object.
+// Adds item to list
+// Writes out list
+namespace Dierenopvang;
 
 public class DierenOpvang
 {
