@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=5309DAFB_002DE253_002D4B1F_002D8EDA_002D4A4B027A2B58/@EntryIndexedValue">66A6D575-C24A-42DA-AFCE-20684F51DBE8</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=NUnit3x/@EntryIndexedValue">db4927dd-2e12-48a7-9a84-2b7e3e31b9c8</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=28060dfc_002D3049_002D4f79_002D989d_002D226a394b48ac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegistreerDier_ValidDier_AddsDierToList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::66A6D575-C24A-42DA-AFCE-20684F51DBE8::net9.0::DierenOpvangTests.RegistreerDier_ValidDier_AddsDierToList&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5bd8b0fc_002D542c_002D4cd8_002Da684_002Df837cf933677/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DierenOpvangTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::66A6D575-C24A-42DA-AFCE-20684F51DBE8::net9.0::TestProject1.DierenOpvangTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a00e3459_002D1e7b_002D4f99_002Dae6b_002Db1f9aadd972a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DierenOpvangTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::66A6D575-C24A-42DA-AFCE-20684F51DBE8::net9.0::DierenOpvangTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f7dfcab2_002D160f_002D4f10_002Dbd08_002Df261cdfe50d1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RegistreerDier_ValidDier_AddsDierToList #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::66A6D575-C24A-42DA-AFCE-20684F51DBE8::net9.0::DierenOpvangTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

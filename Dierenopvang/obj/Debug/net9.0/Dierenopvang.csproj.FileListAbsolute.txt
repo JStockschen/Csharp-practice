@@ -1,0 +1,14 @@
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\bin\Debug\net9.0\Dierenopvang.exe
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\bin\Debug\net9.0\Dierenopvang.deps.json
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\bin\Debug\net9.0\Dierenopvang.runtimeconfig.json
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\bin\Debug\net9.0\Dierenopvang.dll
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\bin\Debug\net9.0\Dierenopvang.pdb
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\obj\Debug\net9.0\Dierenopvang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\obj\Debug\net9.0\Dierenopvang.AssemblyInfoInputs.cache
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\obj\Debug\net9.0\Dierenopvang.AssemblyInfo.cs
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\obj\Debug\net9.0\Dierenopvang.csproj.CoreCompileInputs.cache
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\obj\Debug\net9.0\Dierenopvang.dll
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\obj\Debug\net9.0\refint\Dierenopvang.dll
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\obj\Debug\net9.0\Dierenopvang.pdb
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\obj\Debug\net9.0\Dierenopvang.genruntimeconfig.cache
+C:\Users\Johan\RiderProjects\Dierenopvang\Dierenopvang\obj\Debug\net9.0\ref\Dierenopvang.dll
